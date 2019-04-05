@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsoLearn</string>
+    <string name="all_news">All news</string>
+    <string name="pinned_news">Pinned news</string>
+    <string name="please_check_your_network_connectivity">Your Internet connection appears to be offline.</string>
+
+</resources>
